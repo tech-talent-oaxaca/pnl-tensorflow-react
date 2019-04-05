@@ -126,4 +126,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# End of https://www.gitignore.io/api/python
+# Tensorflow data
+api/model.tflearn*
+api/tflearn_logs
+api/training_data
+api/checkpoint
