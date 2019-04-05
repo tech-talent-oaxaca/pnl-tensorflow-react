@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "saludo",
+      "patterns": [
+        "Hola", "como estás", "hay alguien ahí", "hola", "buen día"
+      ],
+      "responses": [
+        "Hola, gracias por visitarnos",
+        "Hola, ¿qué tal tu día?"
+      ]
+    }
+  ]
+}
